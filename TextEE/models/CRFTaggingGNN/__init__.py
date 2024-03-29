@@ -1,0 +1,2 @@
+from .EAEtrainer import CRFTaggingGNNEAETrainer
+from .EDtrainer import CRFTaggingGNNEDTrainer
